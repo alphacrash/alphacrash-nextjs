@@ -2,7 +2,7 @@
 title: 'Spring Boot - Notes'
 excerpt: 'World is moving towards micro-services and we don’t have time to configure 100 of them.'
 date: '2023-10-27'
-coverImage: '/assets/blog/spring/spring.avif'
+coverImage: '/assets/blog/spring/spring-boot.jpeg'
 ---
 ---
 # Notes - Spring Boot
