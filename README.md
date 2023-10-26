@@ -2,7 +2,7 @@
 
 I am full stack developer mostly spending my time on React, Spring Boot and PostgreSQL.
 
-If I'm not coding on weekdays, then probably I will be playing Valorant and FIFA. On weekend, you can't catch me! (likely trekking on some hill with no network 👻)
+If I'm not coding on weekdays, then probably I will be playing Valorant or FIFA. On weekend, I'm off the grid.
 
 ### Tech I work on
 
