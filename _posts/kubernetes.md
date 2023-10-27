@@ -5,7 +5,7 @@ date: '2023-10-27'
 coverImage: '/assets/blog/kubernetes/kubernetes.svg'
 ---
 ---
-# Kubernetes
+## Kubernetes
 
 - Open source container orchestration tool
 - Developed by Google
