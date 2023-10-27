@@ -18,3 +18,11 @@ If I'm not coding on weekdays, then probably I will be playing Valorant or FIFA.
 - Database - PostgreSQL
 - DevOps Tools - Git, Docker, Kubernetes
 - Platforms - GitHub, GitLab, Jira, Azure, AWS, RedHat OCP, Jenkins
+
+### Code
+
+```java
+public static void main(String[] args) {
+    System.out.println("Hello, World!");
+}
+```

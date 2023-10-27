@@ -13,6 +13,7 @@
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "14.0.0",
+    "prismjs": "^1.29.0",
     "react": "^18",
     "react-dom": "^18",
     "rehype-highlight": "^7.0.0",

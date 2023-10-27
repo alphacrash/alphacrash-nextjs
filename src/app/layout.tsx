@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import './prism.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,6 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="/prism.css" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
