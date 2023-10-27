@@ -5,8 +5,6 @@ date: '2023-10-27'
 coverImage: '/assets/blog/spring/spring-boot.jpeg'
 ---
 ---
-# Notes - Spring Boot
-
 ### Why Spring Boot?
 
 - Spring based applications have lot of configuration
